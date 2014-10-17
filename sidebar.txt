@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zma:home|Door43 (zma)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zma|d43-zma repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zma/archive/master.zip|d43-zma.zip]]
+
+**Recent Changes**
+{{changes>ns = zma}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zma|Ethnologue data]]
+
